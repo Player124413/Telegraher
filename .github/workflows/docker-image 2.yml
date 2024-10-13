@@ -1,4 +1,4 @@
-name: Docker Image CI bundle
+name: android build
 
 on:
     pull_request:
