@@ -3,7 +3,7 @@ name: android build
 on:
     pull_request:
         branches: [ graher_9.33 ]
-        types: [ closed ]
+        types: [ opened ]
 
 jobs:
     build_release:
